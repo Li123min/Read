@@ -1,0 +1,103 @@
+.header{
+    margin: 0;
+    height: 80px;
+    width: 100%;
+    font-size: 14px;
+    font-family: 'Microsoft YaHei';
+    color: #FFFFFF;
+    box-sizing: border-box;
+    background-color: #29c497;
+    min-width: 1100px;
+}
+.header-div{
+    width: 1100px;
+    border: 0;
+    margin:0 auto;
+    height: 80px;
+    /* position: absolute; */
+}
+.header-div_left{
+    width: 720px;
+    height: 80px;
+    float: left;
+}
+.header-div_left div{
+    line-height: 80px;
+    color: #FFFFFF;
+    font-size: 18px;
+    float: left;
+}
+.header-div_left div a{
+    line-height: 80px;
+    color: #FFFFFF;
+    font-size: 18px;
+    text-decoration: none;
+}
+.home_page,.Consultation{
+    width: 80px;
+    height: 80px;
+    text-align: center;
+}
+.home_page div,.Consultation div{
+    width: 80px;
+    height: 80px;
+    text-align: center;
+}
+.home_page_one:hover{
+    color: #fff;
+}
+.home_page_one:hover{
+    background-color: rgba(0, 0, 0, 0.2);
+}
+.Ranking_List,.new_book,.Writers_ranking{
+    width: 114px;
+    height: 80px;
+    text-align: center;
+}
+.Ranking_List div,.new_book div,.Writers_ranking div{
+    width: 114px;
+    height: 80px;
+    text-align: center;
+}
+.search{
+    width: 310px;
+    height: 80px;
+    float: right;
+}
+.search input{
+    width: 300px;
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0.2);
+    border: 0;
+    border-radius: 30px;
+    margin-top: 25px;
+    padding-left: 10px;
+    appearance: none;
+    color: #FFFFFF;
+}
+/*修改提示文字的颜色*/
+
+input::-webkit-input-placeholder { /* WebKit browsers */ 
+    color: #fff; 
+    }  
+    input:-moz-placeholder { /* Mozilla Firefox 4 to 18 */ 
+    color: #fff; 
+    } 
+    input::-moz-placeholder { /* Mozilla Firefox 19+ */ 
+    color: #fff; 
+    } 
+    input:-ms-input-placeholder { /* Internet Explorer 10+ */ 
+    color: #fff; 
+    }
+.search div{
+    width: 30px;
+    height: 30px;
+    margin-left: 270px;
+    margin-top: -31px;
+}
+.search div img{
+    width: 30px;
+    height: 30px;
+}
+
+

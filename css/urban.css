@@ -1,0 +1,241 @@
+body,.nrban_centent{
+    min-width: 1100px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    margin: 0 auto;
+    background-color: #f5f5f5;
+    padding: 0;
+}
+.clearfix:after{
+    display:block;
+    clear:both;
+    content:"";
+    visibility:hidden;
+    height:0
+  }
+.nrban_centent_top{
+    width: 100%;
+    min-width: 1100px;
+    height: 320px;
+    background-color: #fff;
+    box-shadow: 0 0 5px rgb(197, 189, 205);
+}
+.nrban_centent_top>div{
+   width: 1100px;
+   margin: 0 auto;
+}
+.nrban_centent_top_p p{
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 36px;
+}
+.nrban_centent_top_p p span,.nrban_centent_top_p p span a{
+    color: #747474;
+    font-size: 13px;
+}
+.nrban_centent_top_spana{
+    color: #747474;
+    margin: 0 6px;
+}
+.nrban_centent_bookname{
+    height: 235px;
+}
+.nrban_centent_bookname div{
+    float: left;
+}
+.nrban_centent_bookname_left{
+    width: 180px;
+    height: 235px;
+    margin-right: 30px;
+}
+.nrban_centent_bookname_left img{
+    width: 180px;
+    height: 235px;
+    border-radius: 4px;
+}
+.nrban_centent_bookname_right{
+    width: 890px;
+    height: 235px;
+}
+.name_name{
+    width: 890px;
+    height: 50px;
+}
+.name_name_left{
+    float: left;
+}
+.name_name_left h2{
+    width: 820px;
+    display: block;
+}
+.name_name_left h2 span{
+    font-size: 14px;
+    color: #747474;
+    font-weight: 500;
+    margin-left: 20px;
+}
+.name_name_left h2 a{
+    color: #414141;
+}
+.name_name_right{
+    width: 70px;
+    float:right;
+    margin-top: 10px;
+}
+.bookname_right_div2{
+    width: 890px;
+    height: 26px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.name_name_right{
+    font-size: 14px;
+    color: #747474;
+}
+.name_name_right span{
+    font-size: 30px;
+    color: #f5717f;
+}
+.bookname_right_div2_div1{
+    width: 65px;
+    height: 26px;
+    line-height: 26px;
+    color:#29c497; 
+    border: 1px solid #29c497;
+    border-radius:15px;
+    text-align: center;
+    margin-right: 10px;
+}
+.bookname_right_div2_div2{
+    width: 55px;
+    height: 26px;
+    line-height: 26px;
+    color:#f5717f; 
+    border: 1px solid #f5717f;
+    border-radius:15px;
+    text-align: center;
+    margin-right: 10px;
+}
+.bookname_right_div33{
+    width: 890px;
+    height: 20px;
+    margin-bottom: 10px;
+}
+.bookname_right_div33 p{
+   margin: 0;
+}
+.nrban_centent_bookname_right>p{
+    color: #747474;
+    line-height: 26px;
+}
+.span_span2{
+    color: #747474;
+    margin-right: 16px;
+}
+.bookname_right_div33 p span span{
+    color:#f5717f; 
+}
+.span_span1{
+    color: #414141 !important;
+    margin-left: 6px;
+    margin-right: 16px;
+}
+.span_span{
+    font-size: 20px;
+    font-weight: 600px;
+}
+.nrban_centent_cen{
+    width: 1100px;
+    margin: 0 auto;
+}
+.nrban_centent_cen div{
+    float: left;
+}
+.nrban_centent_cen_left{
+    width: 745px;
+    height: 1140px;
+    margin-right: 15px;
+    background-color: #fff;
+    margin-top: 20px;
+    border-radius: 8px;
+    /* box-shadow: 0 0 5px rgb(197, 189, 205); */
+}
+.Ranking_List111 div div{
+    margin-bottom: 0 !important;
+}
+.nrban_centent_cen_left_div1,.nrban_centent_cen_left_div3{
+    height: 30px;
+    border-left: 4px solid #29c497;
+    padding-left: 20px;
+    line-height: 30px;
+    font-size: 20px;
+    color: #4b4b4b;
+    /* margin: 20px 0 15px 15px; */
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.nrban_centent_cen_left_div2{
+    height: 90px;
+}
+.nrban_centent_cen_left_div2 div{
+    width: 130px;
+    height: 90px;
+    float: left;
+    background: url("../images/20.png") center center;
+    background-repeat:no-repeat;
+    margin-left: 10px;
+}
+.nrban_centent_cen_left_div3 div span{
+    color: #9d9d9d;
+    font-size: 16px;
+    font-weight: 400px;
+    margin-left: 10px;
+}
+.left_div4_cen_div1,.left_div4_cen_div1 img{
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+}
+.left_div4_cen_div1{
+    margin: 10px 18px 0 38px;
+}
+.left_div4_cen_div2{
+    width: 600px;
+}
+.left_div4_cen_div2_top{
+    margin-top: 10px;
+}
+.left_div4_cen_div2_top_span1{
+    width: 400px;
+    display: block;
+    float: left;
+    color: #4b4b4b;
+    font-size: 16px;
+}
+/* .left_div4_cen_div2_top_span2{
+    margin-right: 20px;
+} */
+.left_div4_cen_div2_top_span2,.left_div4_cen_div2_top_span3{
+    color: #9d9d9d;
+    font-size: 13px;
+}
+.left_div4_cen_div2_top_span3{
+    margin-left: 15px;
+}
+.nrban_centent_cen_left_div4_cen{
+    border-bottom: 1px solid #f5f5f5;
+    padding-bottom: 38px;
+}
+.div_buttom0{
+    height: 40px;
+    margin-top: 26px;
+}
+.div_buttom0 button{
+    height: 40px;
+    width: 120px;
+    background-color: #fff;
+    border: 1px solid #29c497;
+    border-radius: 6px;
+    margin-left: 308px;
+    color: #29c497;
+    font-size: 16px;
+}

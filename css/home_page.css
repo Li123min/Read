@@ -1,0 +1,186 @@
+body{
+    margin: 0;
+    padding: 0;
+    min-width: 1100px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    background-color: #f5f5f5; 
+}
+a{
+    text-decoration: none;
+}
+.home_page_cent{
+    min-width: 1100px;
+}
+.home_page_centert_cen{
+    width: 1100px;
+    margin: 0 auto;
+}
+.home_page_centert_meun{
+    width: 1100px;
+    height: 52px;
+    margin-top: 30px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding-left: 42px;
+}
+.home_page_centert_meun div div{
+    float: left;
+    width: 76px;
+    height: 49px;
+    line-height: 52px;
+    text-align: center;
+    font-size: 18px;
+    color:#344856;
+}
+.centert_meun_author{
+    margin-left: 46px;
+}
+.home_page_centert_meun div div a{
+    width: 76px;
+    height: 49px;
+    display: block;
+    color:#344856;
+}
+.centert_meun_book{
+    border-bottom: 3px solid #29c497;
+}
+.home_page_centert_p{
+    padding-top: 35px;
+    padding-bottom: 15px;
+}
+.home_page_centert_p p{
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    color: #344856;
+}
+.home_page_centert_p p span{
+    color:#ff6932;
+}
+.book_display{
+    width: 1100px;
+    height: 220px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+.book_display div{
+    float: left;
+}
+.book_display_img{
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-right: 20px;
+}
+.book_display_img img{
+    width: 150px;
+    height: 200px;
+}
+.book_display_text{
+    width: 658px;
+    height: 200px;
+}
+.book_display_text h3{
+    margin-top: 26px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    font-weight: 400;
+}
+.book_display_text h3 a{
+    color: #414141;
+}
+.book_display_text p{
+    line-height: 26px;
+    color: #747474;
+}
+.book_display_information{
+    width: 124px;
+    margin-left: 110px;
+}
+.book_display_information p{
+   text-align: right;
+   color: #747474;
+}
+.book_display_information p span{
+    color: #ff6932;
+    font-size: 26px;
+}
+.null1{
+    height: 155px;
+}
+/* 清除浮动*/
+.clearfix:after{
+    display:block;
+    clear:both;
+    content:"";
+    visibility:hidden;
+    height:0
+  }
+/* book_display_div2 */
+.book_display_div2{
+    margin-top: 25px;
+    display: none;
+}
+.book_display_div2 div{
+    float: left;
+    margin-bottom: 20px;
+}
+.book_display_div2_one{
+    width: 260px;  
+    height: 250px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding-top: 40px;
+}
+.display_div2_one_11{
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    margin-left: 87px;
+    margin-right: 87px;
+}
+.display_div2_one_11 img{
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+}
+.display_div2_one_11_p{
+    text-align: center;
+    font-size: 18px;
+    color:#344856;
+}
+.display_div2_one_11_pp{
+    text-align: center;
+    color: #747474;
+    font-size: 15px;
+}
+.display_div2_one_11_pp span{
+    border-left: 1px solid #747474;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 14px;
+}
+.display_div2_one_22{
+    height: 40px;
+    padding-left: 16px;
+}
+.display_div2_one_22 div{
+    float: left;
+    width: 104px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    font-size: 16px;
+    border: 1px solid #29c497;
+    border-radius: 4px;
+    margin-top: 12px;
+}
+.works{
+    color: #fff;
+    background-color: #29c497;
+    margin-right: 16px;
+}
+.follow{
+    color: #29c497;
+}

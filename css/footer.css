@@ -1,0 +1,37 @@
+.footer{
+    width: 100%;
+    min-width: 1100px;
+    height: 210px;
+    background-color: #282828;
+    margin-top: -14px;
+}
+a{
+    text-decoration: none;
+}
+.footer-div{
+    width: 1100px;
+    height: 210px;
+    margin: 0 auto;
+    color: #4e4e4e;
+}
+.foot_top{
+    height: 90px;
+    text-align: center;
+    border-bottom: 1px solid #333333;
+}
+.foot_top p{
+    line-height: 90px;
+    font-size: 14px;
+}
+.foot_top p span a{
+    color: #4e4e4e;
+}
+.foot_top p span{
+   margin-right: 30px;
+}
+.foot_bottom p{
+   text-align: center;
+}
+.foot_bottom p span{
+    margin-right: 26px;
+ }

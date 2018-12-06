@@ -1,0 +1,183 @@
+body,.Ranking_List_centert{
+    min-width: 1100px;
+    width: 100%;
+    background-color: #f5f5f5;
+    font-size: 14px;
+}
+.clearfix:after{
+    display:block;
+    clear:both;
+    content:"";
+    visibility:hidden;
+    height:0
+  }
+.Ranking_List_centert_cen{
+    width: 1100px;
+    margin: 0 auto;
+}
+.Ranking_List_centert_classify{
+    width: 1100px;
+    height: 170px;
+    margin-top: 40px;
+    background-color: #fff;
+    border-radius: 8px;
+    margin-bottom: 25px;
+}
+.centert_classify{
+    height: 100px;
+    width: 1080px;
+    margin-left: 10px;
+    margin-top: 20px; 
+    border-bottom: 1px solid #f5f5f5;
+}
+.centert_classify div,.centert_degree div{
+    float: left;
+} 
+.centert_classify_left{
+    margin-left: 30px;
+    width: 30px;
+    height: 100px;
+    margin-right: 40px;
+}
+.centert_classify_left span{
+    display: block;
+    height: 35px;
+    line-height: 35px;
+    color: #747474; 
+    margin-top: 20px;
+}
+.centert_classify_assortment{
+    width: 920px;
+    padding-top: 20px;
+}
+.centert_classify_assortment span a{
+    display: block;
+    width: 65px;
+    height: 35px;
+    line-height: 35px;
+    float: left;
+    margin-right: 10px;
+    color: #414141;
+    text-align: center;
+    border-radius: 4px;
+}
+.centert_classify_assortment_span{
+    background-color: #29c497;
+    color:#ffffff !important;
+}
+.centert_degree_left{
+    margin-left: 40px;
+    width: 30px;
+    height: 70px; 
+    margin-right: 40px;
+    line-height: 70px;
+}
+.centert_degree_left span{
+    display: block;
+    height: 70px;
+    line-height: 70px;
+}
+.centert_degree_right span a{
+    display: block;
+    height: 70px;
+    width: 65px;
+    line-height: 70px;
+    float: left;
+    margin-right: 10px;
+    color: #414141;
+    text-align: center;
+}
+.degree_right_aa{
+    color: #29c497 !important;
+}
+.Ranking_List_centert_ranking{
+    width: 1100px;
+    margin: 0 auto;
+    border-radius: 8px;
+    background-color: #fff;
+}
+.Ranking_List_no1{
+    width: 80px !important;
+    margin-right: 20px;
+}
+.book_degree{
+    margin-right: 20px;
+}
+.book_click{
+    margin-right: 30px;
+}
+.Ranking_List_centert_ranking div{
+    /* padding:0 40px; */
+    width: 1080px;
+    color: #414141;
+}
+.book_degree,.book_click,.branch{
+    text-align: center;
+}
+.centert_ranking_one,.centert_ranking_two{
+    width: 1080px;
+    margin-left: 10px;
+    border-bottom: 1px solid #f5f5f5;
+}
+.centert_ranking_menu{
+    height: 60px;
+    width: 1080px;
+    margin-left: 10px;
+}
+.centert_ranking_menu div{
+    float: left;
+    width: 127px;
+    height: 60px;
+    line-height: 60px;
+    font-weight: 600;
+}
+.centert_ranking_one{
+    height: 65px;
+}
+.centert_ranking_one div{
+    float: left;
+    width: 127px;
+    height: 65px;
+    line-height: 65px;
+    color: #414141;
+}
+.centert_ranking_one div a,.centert_ranking_two div a{
+    color: #414141;
+}
+.centert_ranking_two{
+    height: 180px;
+}
+.centert_ranking_two div{
+    float: left;
+    width: 127px;
+    height: 180px;
+    color: #414141;
+    /* line-height: 170px; */
+}
+.Listno1,.book_degree,.book_click,.Recommended_ticket,.Monthly_Ticket,.Search_index,.branch_div{
+    line-height: 180px;
+}
+.Ranking_List_no1{
+    margin-left: 40px;
+}
+.Listno1{
+    font-weight: 600;
+}
+/* .branch_div{
+    color: #f5717f !important;
+} */
+.bookname_div div{
+    width: 96px;
+    height: 180px;
+}
+.bookname_div div img{
+    width: 96px;
+    height: 128px;
+    margin-top: 20px;
+}
+.Search_index img{
+    width: 100px;
+    height: 20px;
+    margin-top: 22px;
+    display: block;
+}
